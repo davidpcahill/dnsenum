@@ -1,7 +1,5 @@
 -
 --
-.
-..
 0
 00
 000
@@ -474,6 +472,8 @@ admin
 administration
 admins
 adobe
+ad
+ads
 adtran
 adtrans
 adws
@@ -3131,6 +3131,8 @@ ssh
 ssh-agent
 ssh-keygen
 sshagent
+sshserver
+sshsrv
 ssl
 ssl2
 ssl3
@@ -3392,6 +3394,8 @@ unrealircd
 update
 updates
 uplink
+upload
+uploads
 ups
 ups-01
 ups-1
@@ -3463,6 +3467,7 @@ vg
 vga
 vi
 vid
+vids
 video
 videos
 vim
@@ -3673,6 +3678,8 @@ wtf
 www
 www01
 www1
+www2
+www3
 wwwsql
 wwwsql01
 wwwsql1
