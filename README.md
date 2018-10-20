@@ -18,6 +18,7 @@ Future plans:
 * Different search order such as most common, random, alphabetical, etc.
 * Query multiple name servers
 * DNS TLS/SSL
+* Maybe output to collaboration databases. Worst case (most likely) you're only getting stdout, txt, and MAYBE csv.
 
 
 Ubuntu perl things to install:
