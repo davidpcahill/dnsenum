@@ -3,9 +3,9 @@ DNS Enumeration Script and Bruteforce Lists I've compiled by hand
 
 Finds a shitload of hostnames and subdomains for an existing domain.
 
-VERY noisy at the nameserver level. But your target will likely never see any of that traffic.
+VERY noisy at the nameserver level. But your target will likely never see any of that traffic. (Your ISP might, if so or you don't kow how to prevent this you probably wouldn't use this anyways...)
 
-Whitehat and responsible penteting use only please.
+Whitehat and responsible pentesting use only please.
 
 
 
