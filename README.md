@@ -23,7 +23,9 @@ Future plans:
 Ubuntu perl things to install:
 
 sudo apt install libxml-writer-perl
+
 sudo apt install libnet-netmask-perl
+
 sudo apt install libstring-random-perl
 
 That should do it.
